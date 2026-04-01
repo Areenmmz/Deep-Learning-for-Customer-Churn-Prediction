@@ -1,0 +1,3 @@
+Dataset URL from Kaggle:
+
+https://www.kaggle.com/datasets/synful/churn-data
